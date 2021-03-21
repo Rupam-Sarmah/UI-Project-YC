@@ -1,0 +1,67 @@
+.not-ready-yet {
+  width: 80%;
+  margin: 2% 2% 5% 5%;
+  height: auto;
+  /*background-color: #191e29;
+  border-radius: 2vw;*/
+}
+
+.not-ready-text {
+  font-family: Poppins;
+  font-size: 1.2vw;
+  margin: 0% 0% 0% 5%;
+  /*margin: 0 auto;*/
+  color: #ffe94b;
+}
+.no-problem-text {
+  font-family: Poppins;
+  font-size: 2.92vw;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin: 5% 2% 2% 5%;
+}
+.buttonIn {
+  position: relative;
+  margin: 0 auto;
+  width: 50%;
+  float: left;
+  display: flex;
+  flex-direction: row;
+}
+
+.entermail {
+  width: 100%;
+  outline: none;
+  height: auto;
+  border-radius: 1.46vw;
+  border-color: #ccf0d1;
+  background-color: #0e141e;
+  margin: 0% 0% 2% 10%;
+  /*padding-left: 10px;
+  position: absolute;*/
+}
+.butnEmail {
+  top: 0;
+  border-radius: 1.4vw;
+  right: 0vw;
+  z-index: 2;
+  border: none;
+  top: 0.14vw;
+  /*height: 30px;*/
+  cursor: pointer;
+  color: rgb(8, 0, 0);
+  background-color: #f8f9fa;
+  transform: translateX(2px);
+  position: absolute;
+  outline: none;
+  margin: 0% 0% 2% 10%;
+}
+
+.hr-bottom {
+  width: 80%;
+  height: 0.1vh;
+}

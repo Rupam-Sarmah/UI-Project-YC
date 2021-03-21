@@ -1,0 +1,31 @@
+.my-footer {
+  width: 80%;
+}
+.fooer-img {
+  width: 80%;
+  height: auto;
+  max-height: 4vh;
+  margin: 0% 10% 0 10%;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-img-div {
+  margin: -5% 0% 0 2%;
+  align-items: left;
+}
+.footer-right {
+  float: right;
+  font-family: Poppins;
+  font-size: 1.02vw;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #c8c8c8;
+}

@@ -1,0 +1,69 @@
+.why-design-audit {
+  width: 80%;
+  margin: 0 auto;
+  height: auto;
+  /*background-color: blue;*/
+}
+
+.why-design-text {
+  font-family: Poppins;
+  font-size: 1.2vw;
+  /*margin: 0 auto;*/
+  color: #ffe94b;
+}
+
+.design-can-make-text {
+  /*width: 50%;*/
+  font-family: Poppins;
+  font-size: 2.92vw;
+  font-weight: 600;
+  line-height: 1.33;
+  color: #ffffff;
+}
+.great-product {
+  font-family: Poppins;
+  font-size: 1.31vw;
+  line-height: 1.89;
+  color: #b2b2b2;
+}
+
+.s-two {
+  /*background-color: #0e141e;
+    width: 90%;*/
+  border-radius: 2vw;
+}
+.direction {
+  display: flex;
+  flex-direction: row;
+  padding: 3% 3% 3% 3%;
+}
+.s-two .image-container {
+  width: 60%;
+  /*height: 2vh;
+  margin: 2% 0% 0% 5%;*/
+}
+.info-container {
+  width: 70%;
+  height: auto;
+  float: right;
+}
+.bold-text {
+  font-family: Poppins;
+  font-size: 1.31vw;
+  font-weight: 600;
+  margin: 0% 0% 2% 20%;
+  color: #ffffff;
+}
+.normal-text {
+  font-family: Poppins;
+  font-size: 1.17vw;
+  margin: 5% 0% 2% 20%;
+  color: #ffffff;
+}
+.s-two .img-responsive {
+  margin: 0 auto;
+}
+
+.why-audit-sp {
+  color: #ffe94b;
+}

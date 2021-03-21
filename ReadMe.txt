@@ -1,0 +1,1 @@
+1. to view the web page, open the "src" folder and click on "index.html"
